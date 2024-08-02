@@ -1,0 +1,168 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+*{
+    font-family: "Inter", sans-serif;
+
+}
+:root{
+    --theme-primary-color:#2699FB;
+}
+
+.watshap-btn {
+    border: 1px solid green;
+    color: green;
+    }
+   
+
+    .watshap-btn:hover{
+        border: 1px solid green;
+        color: green;
+        }
+        .theme-btn{
+            background-image: linear-gradient(60deg,#0ACEFE,var(--theme-primary-color));
+        color: white;
+        }
+        .theme-btn:hover {
+            color: white;
+            }
+            .tagline{
+                padding-right: 40px;
+                background: url(../imges/Vector\ 63.png) no-repeat bottom center;
+                font-size: 3.25rem;
+                font-weight: bold;
+                font-size: 2.5rem;
+            }
+            .tagline span{
+                color:var(--theme-primary-color);
+
+            }
+            .enqurey-form{
+                height: 491px;
+                max-width: 410px;
+                margin: auto;
+                background-color: white;
+                padding: 40px;
+            }
+            .form-label{
+                font-size: 14px;
+                font-weight: 500;
+                line-height: 20px;
+            }
+            
+            .ellipse{
+                width: 552px; 
+               height: 552px;
+               display: none;
+               border-radius: 50%;
+               background-color:#E9F5FF ;
+               position: absolute;
+               top: 50%;
+               left: 50%;
+               transform: translate(-50%,-50%);
+               z-index: -1;
+             
+            }
+            #hightlight-container{
+              
+                background-color: #F7FAFF;
+            }
+            .top-career {
+                max-width: 461px;
+               text-align: center;
+               margin: auto;
+            }
+             .top-career-text{
+                max-width:639px;
+            }
+            .crt-text-para{
+                max-width:586px ;
+            }
+           .star-img{
+                background-color:#E9F5FF ;
+                box-shadow:0px 0px  10px #E9F5FF;
+                padding: 13px;
+                
+           }
+           .star-para{
+            max-width: 433px;
+            
+           }
+           .cv-h1{
+            font-size: 2.75rem ;
+           }
+           .cv-p{
+            font-size: 1.125rem !important;
+           }
+           .Introduction-box{
+            background-color:#F2F4F7 ;
+            box-shadow: 0px 0px 2px #F2F4F7;
+            font-size: 1.125rem !important;
+           /* border-bottom:2px solid #2699FB !important; */
+           text-align: center;
+           padding: 0.75rem !important;
+           }
+           .students-box{
+            font-size: 1.125rem !important;
+            /* padding: 0.75rem !important; */
+            color: #43505B;
+           }
+           .lorem-para{
+            max-width: 304px;
+           }
+           .matcannon-para{
+            max-width: 505px;
+            font-size: 1.125rem !important;
+           }
+         
+            /* .lorem-text{
+                font-size: 15px;
+                max-width: 221px;
+            } */
+.crt-dot-img img{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.certficket-img img{
+    position: absolute;
+    top: 5px;
+    left: 33px;
+    z-index: 1;
+}
+
+.eelipse{
+width: 288px;
+   height: 288px;
+   background-color:#E9F5FF;
+   border-radius: 50%;
+   position: absolute;
+   bottom: -114px;
+   right: 100px;
+  
+}
+.are-you-ready-box{
+    background:linear-gradient(#0ACEFE,#2699FB);
+    
+
+}
+.btn-redy {
+    outline: none !important;
+    border: none !important;
+}
+#footer{
+    background-color:#0A2540;
+   
+}
+/* .faq-text-box{
+    width: 66%;
+}
+.faq-first-box{
+   width: 100%; 
+} */
+/* 
+.first-box-text{
+    max-width: 87%;
+} */
+
+
+        

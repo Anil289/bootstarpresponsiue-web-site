@@ -1,0 +1,15 @@
+@media(min-width:992px) {
+    .tagline {
+        font-size: 3.5rem;
+    }
+}
+
+@media(min-width:768px) {
+    .ellipse {
+        display: block;
+    }
+
+    .form-container {
+        padding: 66px 0px;
+    }
+}
